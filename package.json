@@ -1,0 +1,10 @@
+{
+    "name":"Raja's appium desktop",
+    "version":"1.0.0",
+    "description": "Graphical Interface for the Appium server, and an app inspector",
+    "repository": {
+        "type": "git",
+        "url":"git+https://github.com/raja28april/raja-appium-desktop.git"
+    }
+
+}
