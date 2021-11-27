@@ -1,0 +1,26 @@
+{
+  "name": "raja-appium-desktop",
+  "version": "1.0.0",
+  "description": "Graphical user interface for the appium server and an inspector",
+  "repository": {
+    "type": "git",
+    "url": "git+https://raja28april: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@github.com/raja28april/raja-appium-desktop.git"
+  },
+  "author": "Raja",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/raja28april/raja-appium-desktop/issues"
+  },
+  "keywords": [
+    "raja-appium"
+  ],
+  "homepage": "https://github.com/raja28april/raja-appium-desktop#readme",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "@babel/core": "^7.16.0"
+  }
+}
